@@ -1,0 +1,6 @@
+5
+1.getDetailedMenu
+2.purchaseItem
+3.addItem
+4.removeItem
+5.backToAcount

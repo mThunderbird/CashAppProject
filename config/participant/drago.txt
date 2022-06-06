@@ -1,0 +1,4 @@
+Name: drago
+Password: 123
+IsAdmin: 0
+Balance: 0

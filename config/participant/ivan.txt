@@ -1,0 +1,4 @@
+Name: ivan
+Password: 123
+IsAdmin: 0
+Balance: 0

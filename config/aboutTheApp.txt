@@ -1,0 +1,11 @@
+========================= About CashApp ===================================
+Imagine you and your colleagues/friends go to lunch everyday.
+One of them has no cash and decides to pay the whole bill by card.
+And now all of you are wondering how much money should each of you
+give...
+That's when CashApp comes in. Add items to the menu. Purchase things
+and let CashApp calculate how much you have to give or take. No more 
+worries and no more separate bills. CashApp is what you need!!!
+
+Developed from a personal idea and tested by the NiTe Games Studio team!
+===========================================================================

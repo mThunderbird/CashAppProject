@@ -1,0 +1,4 @@
+Name: petyr
+Password: asz123
+IsAdmin: 0
+Balance: 0

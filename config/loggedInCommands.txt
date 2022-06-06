@@ -1,0 +1,11 @@
+10
+1.personalnoSyobshtenieDoMinkov
+2.changeName
+3.changePassword
+4.applyForAdmin
+5.getPersonalInfo
+6.getAllParticipantsPublicInfoByName
+7.getAllParticipantsPublicInfoByBalance
+8.searchForParticipant
+9.goToMenu
+10.logOut

@@ -1,0 +1,9 @@
+8
+1.anonimnoSyobshtenieDoUvazhaemiqGospodinMinkov
+2.aboutTheApp
+3.briefTutorialOfTheApp
+4.registerParticipant
+5.logIn
+6.forgotPassword
+7.printMessagesToMinkov
+8.close

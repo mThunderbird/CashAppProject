@@ -1,0 +1,12 @@
+============================= Tutorial ====================================
+This is a console app. You must insert the numbers of the commands you
+want to execute.
+The first section is the Log in section.
+To continue you have to Log in or Register.
+The second section is your Profile.
+There you can insert the amount of money you have paid.
+You can also open the Menu to add items or purchase an item from the 
+Catalogue. 
+You can go to the previous section with the last command in the list.
+Thanks for using my app!
+============================================================================
